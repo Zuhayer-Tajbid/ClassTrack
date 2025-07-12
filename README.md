@@ -156,6 +156,11 @@
 </table>
 
 ---
+## 📱 Download APK
+
+👉 [Download the latest APK](https://github.com/Zuhayer-Tajbid/ClassTrack/releases/tag/v1.0.0)
+
+---
 
 ## 🛠️ Tech Stack
 
